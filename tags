@@ -1,0 +1,202 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACTORPICKERMODE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define ACTORPICKERMODE_API /;"	d
+ADDCONTENTDIALOG_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define ADDCONTENTDIALOG_API /;"	d
+AFloatingActor	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.gen.cpp	/^	DEFINE_VTABLE_PTR_HELPER_CTOR(AFloatingActor);$/;"	v
+AFloatingActor	Source/UE4PG1/FloatingActor.cpp	/^AFloatingActor::AFloatingActor()$/;"	f	class:AFloatingActor
+AFloatingActor	Source/UE4PG1/FloatingActor.h	/^class UE4PG1_API AFloatingActor : public AActor$/;"	c
+AIMODULE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define AIMODULE_API /;"	d
+APPLICATIONCORE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define APPLICATIONCORE_API /;"	d
+ASSETREGISTRY_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define ASSETREGISTRY_API /;"	d
+ASSETTOOLS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define ASSETTOOLS_API /;"	d
+AUDIOEDITOR_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define AUDIOEDITOR_API /;"	d
+AUDIOMIXER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define AUDIOMIXER_API /;"	d
+AUE4PG1GameModeBase	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.gen.cpp	/^	DEFINE_VTABLE_PTR_HELPER_CTOR(AUE4PG1GameModeBase);$/;"	v
+AUE4PG1GameModeBase	Source/UE4PG1/UE4PG1GameModeBase.h	/^class UE4PG1_API AUE4PG1GameModeBase : public AGameModeBase$/;"	c
+AUTOMATIONCONTROLLER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define AUTOMATIONCONTROLLER_API /;"	d
+BLUEPRINTGRAPH_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define BLUEPRINTGRAPH_API /;"	d
+BSPMODE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define BSPMODE_API /;"	d
+BeginPlay	Source/UE4PG1/FloatingActor.cpp	/^void AFloatingActor::BeginPlay()$/;"	f	class:AFloatingActor
+CLASSVIEWER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define CLASSVIEWER_API /;"	d
+CLOTHINGSYSTEMRUNTIMEINTERFACE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define CLOTHINGSYSTEMRUNTIMEINTERFACE_API /;"	d
+COLLECTIONMANAGER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define COLLECTIONMANAGER_API /;"	d
+CONTENTBROWSER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define CONTENTBROWSER_API /;"	d
+COREUOBJECT_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define COREUOBJECT_API /;"	d
+CORE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define CORE_API /;"	d
+CURRENT_FILE_ID	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define CURRENT_FILE_ID /;"	d
+CURRENT_FILE_ID	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#undef CURRENT_FILE_ID$/;"	d
+CURRENT_FILE_ID	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define CURRENT_FILE_ID /;"	d
+CURRENT_FILE_ID	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#undef CURRENT_FILE_ID$/;"	d
+DATABASESUPPORT_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define DATABASESUPPORT_API /;"	d
+DEPRECATED_FORGAME	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define DEPRECATED_FORGAME /;"	d
+DEPRECATED_FORGAME	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#undef DEPRECATED_FORGAME$/;"	d
+DETAILCUSTOMIZATIONS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define DETAILCUSTOMIZATIONS_API /;"	d
+DIRECTORYWATCHER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define DIRECTORYWATCHER_API /;"	d
+DOCUMENTATION_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define DOCUMENTATION_API /;"	d
+EDITORSTYLE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define EDITORSTYLE_API /;"	d
+ENABLE_HTTP_FOR_NFS	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define ENABLE_HTTP_FOR_NFS /;"	d
+ENGINEMESSAGES_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define ENGINEMESSAGES_API /;"	d
+ENGINESETTINGS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define ENGINESETTINGS_API /;"	d
+ENGINE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define ENGINE_API /;"	d
+EmptyLinkFunctionForGeneratedCodeFloatingActor	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.gen.cpp	/^void EmptyLinkFunctionForGeneratedCodeFloatingActor() {}$/;"	f
+EmptyLinkFunctionForGeneratedCodeUE4PG1GameModeBase	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.gen.cpp	/^void EmptyLinkFunctionForGeneratedCodeUE4PG1GameModeBase() {}$/;"	f
+EmptyLinkFunctionForGeneratedCodeUE4PG1_init	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1.init.gen.cpp	/^void EmptyLinkFunctionForGeneratedCodeUE4PG1_init() {}$/;"	f
+FUNCTIONALTESTING_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define FUNCTIONALTESTING_API /;"	d
+GAMEPLAYDEBUGGER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define GAMEPLAYDEBUGGER_API /;"	d
+GAMEPLAYTAGS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define GAMEPLAYTAGS_API /;"	d
+GAMEPLAYTASKS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define GAMEPLAYTASKS_API /;"	d
+GRAPHEDITOR_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define GRAPHEDITOR_API /;"	d
+HARDWARESURVEY_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define HARDWARESURVEY_API /;"	d
+HAS_METAL	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define HAS_METAL /;"	d
+HEADMOUNTEDDISPLAY_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define HEADMOUNTEDDISPLAY_API /;"	d
+HIERARCHICALLODUTILITIES_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define HIERARCHICALLODUTILITIES_API /;"	d
+HTTP_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define HTTP_API /;"	d
+HTTP_PACKAGE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define HTTP_PACKAGE /;"	d
+IMAGEWRAPPER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define IMAGEWRAPPER_API /;"	d
+INPUTCORE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define INPUTCORE_API /;"	d
+INTROTUTORIALS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define INTROTUTORIALS_API /;"	d
+IS_MONOLITHIC	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define IS_MONOLITHIC /;"	d
+IS_PROGRAM	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define IS_PROGRAM /;"	d
+JSON_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define JSON_API /;"	d
+KISMETCOMPILER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define KISMETCOMPILER_API /;"	d
+KISMET_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define KISMET_API /;"	d
+LANDSCAPE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define LANDSCAPE_API /;"	d
+LEVELEDITOR_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define LEVELEDITOR_API /;"	d
+LOAD_PLUGINS_FOR_TARGET_PLATFORMS	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define LOAD_PLUGINS_FOR_TARGET_PLATFORMS /;"	d
+LOCALIZATION_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define LOCALIZATION_API /;"	d
+MESHMERGEUTILITIES_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define MESHMERGEUTILITIES_API /;"	d
+MESHREDUCTIONINTERFACE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define MESHREDUCTIONINTERFACE_API /;"	d
+MESHUTILITIES_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define MESHUTILITIES_API /;"	d
+MESSAGINGCOMMON_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define MESSAGINGCOMMON_API /;"	d
+MESSAGING_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define MESSAGING_API /;"	d
+MOVIESCENETRACKS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define MOVIESCENETRACKS_API /;"	d
+MOVIESCENE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define MOVIESCENE_API /;"	d
+NDEBUG	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define NDEBUG /;"	d
+NETWORKFILESYSTEM_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define NETWORKFILESYSTEM_API /;"	d
+NETWORKREPLAYSTREAMING_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define NETWORKREPLAYSTREAMING_API /;"	d
+ORIGINAL_FILE_NAME	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define ORIGINAL_FILE_NAME /;"	d
+PACKETHANDLER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define PACKETHANDLER_API /;"	d
+PLATFORM_APPLE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define PLATFORM_APPLE /;"	d
+PLATFORM_MAC	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define PLATFORM_MAC /;"	d
+PROJECTS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define PROJECTS_API /;"	d
+PROPERTYEDITOR_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define PROPERTYEDITOR_API /;"	d
+RELIABILITYHANDLERCOMPONENT_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define RELIABILITYHANDLERCOMPONENT_API /;"	d
+RENDERCORE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define RENDERCORE_API /;"	d
+RENDERER_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define RENDERER_API /;"	d
+RHI_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define RHI_API /;"	d
+RunningTimeX	Source/UE4PG1/FloatingActor.h	/^    float RunningTimeX;$/;"	m	class:AFloatingActor
+RunningTimeY	Source/UE4PG1/FloatingActor.h	/^    float RunningTimeY;$/;"	m	class:AFloatingActor
+RunningTimeZ	Source/UE4PG1/FloatingActor.h	/^    float RunningTimeZ;$/;"	m	class:AFloatingActor
+SANDBOXFILE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SANDBOXFILE_API /;"	d
+SCENEDEPTHPICKERMODE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SCENEDEPTHPICKERMODE_API /;"	d
+SETTINGS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SETTINGS_API /;"	d
+SHADERCORE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SHADERCORE_API /;"	d
+SLATECORE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SLATECORE_API /;"	d
+SLATE_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SLATE_API /;"	d
+SLATE_DEFERRED_DESIRED_SIZE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SLATE_DEFERRED_DESIRED_SIZE /;"	d
+SOCKETS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SOCKETS_API /;"	d
+SOCKETS_PACKAGE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SOCKETS_PACKAGE /;"	d
+SOURCECONTROL_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SOURCECONTROL_API /;"	d
+SOURCE_CONTROL_WITH_SLATE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SOURCE_CONTROL_WITH_SLATE /;"	d
+SYNTHBENCHMARK_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define SYNTHBENCHMARK_API /;"	d
+StaticRegisterNativesAFloatingActor	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.gen.cpp	/^	void AFloatingActor::StaticRegisterNativesAFloatingActor()$/;"	f	class:AFloatingActor
+StaticRegisterNativesAUE4PG1GameModeBase	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.gen.cpp	/^	void AUE4PG1GameModeBase::StaticRegisterNativesAUE4PG1GameModeBase()$/;"	f	class:AUE4PG1GameModeBase
+Tick	Source/UE4PG1/FloatingActor.cpp	/^void AFloatingActor::Tick(float DeltaTime)$/;"	f	class:AFloatingActor
+UBT_COMPILED_PLATFORM	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UBT_COMPILED_PLATFORM /;"	d
+UBT_COMPILED_TARGET	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UBT_COMPILED_TARGET /;"	d
+UE4PG1	Source/UE4PG1/UE4PG1.Build.cs	/^	public UE4PG1(ReadOnlyTargetRules Target) : base(Target)$/;"	m	class:UE4PG1
+UE4PG1	Source/UE4PG1/UE4PG1.Build.cs	/^public class UE4PG1 : ModuleRules$/;"	c
+UE4PG1EditorTarget	Source/UE4PG1Editor.Target.cs	/^	public UE4PG1EditorTarget(TargetInfo Target) : base(Target)$/;"	m	class:UE4PG1EditorTarget
+UE4PG1EditorTarget	Source/UE4PG1Editor.Target.cs	/^public class UE4PG1EditorTarget : TargetRules$/;"	c
+UE4PG1Target	Source/UE4PG1.Target.cs	/^	public UE4PG1Target(TargetInfo Target) : base(Target)$/;"	m	class:UE4PG1Target
+UE4PG1Target	Source/UE4PG1.Target.cs	/^public class UE4PG1Target : TargetRules$/;"	c
+UE4PG1_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UE4PG1_API /;"	d
+UE4PG1_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#undef UE4PG1_API$/;"	d
+UE4PG1_FloatingActor_generated_h	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_FloatingActor_generated_h$/;"	d
+UE4PG1_Source_UE4PG1_FloatingActor_h_12_ENHANCED_CONSTRUCTORS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_Source_UE4PG1_FloatingActor_h_12_ENHANCED_CONSTRUCTORS /;"	d
+UE4PG1_Source_UE4PG1_FloatingActor_h_12_GENERATED_BODY	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_Source_UE4PG1_FloatingActor_h_12_GENERATED_BODY /;"	d
+UE4PG1_Source_UE4PG1_FloatingActor_h_12_GENERATED_BODY_LEGACY	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_Source_UE4PG1_FloatingActor_h_12_GENERATED_BODY_LEGACY /;"	d
+UE4PG1_Source_UE4PG1_FloatingActor_h_12_INCLASS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_Source_UE4PG1_FloatingActor_h_12_INCLASS /;"	d
+UE4PG1_Source_UE4PG1_FloatingActor_h_12_INCLASS_NO_PURE_DECLS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_Source_UE4PG1_FloatingActor_h_12_INCLASS_NO_PURE_DECLS /;"	d
+UE4PG1_Source_UE4PG1_FloatingActor_h_12_PRIVATE_PROPERTY_OFFSET	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_Source_UE4PG1_FloatingActor_h_12_PRIVATE_PROPERTY_OFFSET$/;"	d
+UE4PG1_Source_UE4PG1_FloatingActor_h_12_RPC_WRAPPERS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_Source_UE4PG1_FloatingActor_h_12_RPC_WRAPPERS$/;"	d
+UE4PG1_Source_UE4PG1_FloatingActor_h_12_RPC_WRAPPERS_NO_PURE_DECLS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_Source_UE4PG1_FloatingActor_h_12_RPC_WRAPPERS_NO_PURE_DECLS$/;"	d
+UE4PG1_Source_UE4PG1_FloatingActor_h_12_STANDARD_CONSTRUCTORS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_Source_UE4PG1_FloatingActor_h_12_STANDARD_CONSTRUCTORS /;"	d
+UE4PG1_Source_UE4PG1_FloatingActor_h_9_PROLOG	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.generated.h	/^#define UE4PG1_Source_UE4PG1_FloatingActor_h_9_PROLOG$/;"	d
+UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_12_PROLOG	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_12_PROLOG$/;"	d
+UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_ENHANCED_CONSTRUCTORS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_ENHANCED_CONSTRUCTORS /;"	d
+UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_GENERATED_BODY	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_GENERATED_BODY /;"	d
+UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_GENERATED_BODY_LEGACY	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_GENERATED_BODY_LEGACY /;"	d
+UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_INCLASS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_INCLASS /;"	d
+UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_INCLASS_NO_PURE_DECLS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_INCLASS_NO_PURE_DECLS /;"	d
+UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_PRIVATE_PROPERTY_OFFSET	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_PRIVATE_PROPERTY_OFFSET$/;"	d
+UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_RPC_WRAPPERS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_RPC_WRAPPERS$/;"	d
+UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS$/;"	d
+UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_STANDARD_CONSTRUCTORS	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_Source_UE4PG1_UE4PG1GameModeBase_h_15_STANDARD_CONSTRUCTORS /;"	d
+UE4PG1_UE4PG1GameModeBase_generated_h	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.generated.h	/^#define UE4PG1_UE4PG1GameModeBase_generated_h$/;"	d
+UE_BUILD_DEVELOPMENT	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UE_BUILD_DEVELOPMENT /;"	d
+UE_BUILD_DEVELOPMENT_WITH_DEBUGGAME	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UE_BUILD_DEVELOPMENT_WITH_DEBUGGAME /;"	d
+UE_BUILD_MINIMAL	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UE_BUILD_MINIMAL /;"	d
+UE_EDITOR	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UE_EDITOR /;"	d
+UE_ENABLE_ICU	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UE_ENABLE_ICU /;"	d
+UE_IS_ENGINE_MODULE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UE_IS_ENGINE_MODULE /;"	d
+UE_IS_ENGINE_MODULE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#undef UE_IS_ENGINE_MODULE$/;"	d
+UE_PROJECT_NAME	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UE_PROJECT_NAME /;"	d
+UMG_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UMG_API /;"	d
+UNICODE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UNICODE /;"	d
+UNREALAUDIO_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UNREALAUDIO_API /;"	d
+UNREALEDMESSAGES_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UNREALEDMESSAGES_API /;"	d
+UNREALED_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UNREALED_API /;"	d
+USE_CACHE_FREED_OS_ALLOCS	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define USE_CACHE_FREED_OS_ALLOCS /;"	d
+USE_CHECKS_IN_SHIPPING	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define USE_CHECKS_IN_SHIPPING /;"	d
+USE_EMBREE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define USE_EMBREE /;"	d
+USE_LOGGING_IN_SHIPPING	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define USE_LOGGING_IN_SHIPPING /;"	d
+USE_STATS_WITHOUT_ENGINE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define USE_STATS_WITHOUT_ENGINE /;"	d
+UTILITYSHADERS_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define UTILITYSHADERS_API /;"	d
+VREDITOR_API	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define VREDITOR_API /;"	d
+WITH_APEX	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_APEX /;"	d
+WITH_APEX_CLOTHING	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_APEX_CLOTHING /;"	d
+WITH_CEF3	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_CEF3 /;"	d
+WITH_CLOTH_COLLISION_DETECTION	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_CLOTH_COLLISION_DETECTION /;"	d
+WITH_COREUOBJECT	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_COREUOBJECT /;"	d
+WITH_DATABASE_SUPPORT	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_DATABASE_SUPPORT /;"	d
+WITH_DEV_AUTOMATION_TESTS	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_DEV_AUTOMATION_TESTS /;"	d
+WITH_DIRECTXMATH	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_DIRECTXMATH /;"	d
+WITH_EDITOR	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_EDITOR /;"	d
+WITH_ENGINE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_ENGINE /;"	d
+WITH_FREETYPE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_FREETYPE /;"	d
+WITH_GAMEPLAY_DEBUGGER	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_GAMEPLAY_DEBUGGER /;"	d
+WITH_LIBCURL	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_LIBCURL /;"	d
+WITH_LOGGING_TO_MEMORY	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_LOGGING_TO_MEMORY /;"	d
+WITH_NVCLOTH	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_NVCLOTH /;"	d
+WITH_PERFCOUNTERS	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_PERFCOUNTERS /;"	d
+WITH_PERF_AUTOMATION_TESTS	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_PERF_AUTOMATION_TESTS /;"	d
+WITH_PHYSX	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_PHYSX /;"	d
+WITH_PHYSX_COOKING	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_PHYSX_COOKING /;"	d
+WITH_PLUGIN_SUPPORT	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_PLUGIN_SUPPORT /;"	d
+WITH_RECAST	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_RECAST /;"	d
+WITH_SERVER_CODE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_SERVER_CODE /;"	d
+WITH_SPEECH_RECOGNITION	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_SPEECH_RECOGNITION /;"	d
+WITH_SSL	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_SSL /;"	d
+WITH_TTS	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_TTS /;"	d
+WITH_UNREALEXR	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_UNREALEXR /;"	d
+WITH_UNREALJPEG	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_UNREALJPEG /;"	d
+WITH_UNREALPNG	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_UNREALPNG /;"	d
+WITH_UNREAL_DEVELOPER_TOOLS	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_UNREAL_DEVELOPER_TOOLS /;"	d
+WITH_XGE_CONTROLLER	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define WITH_XGE_CONTROLLER /;"	d
+XOscAmplitude	Source/UE4PG1/FloatingActor.h	/^    float XOscAmplitude = 0.f;$/;"	m	class:AFloatingActor
+YOscAmplitude	Source/UE4PG1/FloatingActor.h	/^    float YOscAmplitude = 0.f;$/;"	m	class:AFloatingActor
+ZOscAmplitude	Source/UE4PG1/FloatingActor.h	/^    float ZOscAmplitude = 0.f;$/;"	m	class:AFloatingActor
+Z_Construct_UClass_AFloatingActor	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.gen.cpp	/^	UClass* Z_Construct_UClass_AFloatingActor()$/;"	f
+Z_Construct_UClass_AFloatingActor_NoRegister	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/FloatingActor.gen.cpp	/^	UClass* Z_Construct_UClass_AFloatingActor_NoRegister()$/;"	f
+Z_Construct_UClass_AUE4PG1GameModeBase	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.gen.cpp	/^	UClass* Z_Construct_UClass_AUE4PG1GameModeBase()$/;"	f
+Z_Construct_UClass_AUE4PG1GameModeBase_NoRegister	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1GameModeBase.gen.cpp	/^	UClass* Z_Construct_UClass_AUE4PG1GameModeBase_NoRegister()$/;"	f
+Z_Construct_UPackage__Script_UE4PG1	Intermediate/Build/Mac/UE4Editor/Inc/UE4PG1/UE4PG1.init.gen.cpp	/^	UPackage* Z_Construct_UPackage__Script_UE4PG1()$/;"	f
+_UNICODE	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define _UNICODE /;"	d
+__UNREAL__	Intermediate/Build/Mac/UE4Editor/Development/UE4PG1/Definitions.UE4PG1.h	/^#define __UNREAL__ /;"	d
+override	Source/UE4PG1/FloatingActor.h	/^	virtual void BeginPlay() override;$/;"	m	class:AFloatingActor
+override	Source/UE4PG1/FloatingActor.h	/^	virtual void Tick(float DeltaTime) override;$/;"	m	class:AFloatingActor
