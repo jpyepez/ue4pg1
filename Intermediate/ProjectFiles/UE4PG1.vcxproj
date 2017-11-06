@@ -413,6 +413,8 @@
 		<None Include="..\..\Config\DefaultEditor.ini" />
 		<None Include="..\..\Config\DefaultEngine.ini" />
 		<None Include="..\..\Config\DefaultGame.ini" />
+		<ClCompile Include="..\..\Source\UE4PG1\FloatingActor.cpp" />
+		<ClInclude Include="..\..\Source\UE4PG1\FloatingActor.h" />
 		<None Include="..\..\Source\UE4PG1\UE4PG1.Build.cs" />
 		<ClCompile Include="..\..\Source\UE4PG1\UE4PG1.cpp" />
 		<ClInclude Include="..\..\Source\UE4PG1\UE4PG1.h" />

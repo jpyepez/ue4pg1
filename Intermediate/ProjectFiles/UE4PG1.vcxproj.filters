@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\UE4PG1.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{4BDD6331-B9BF-420A-856B-7DF0F2ED527D}</UniqueIdentifier>
+			<UniqueIdentifier>{22D13638-AFFD-4B4A-BA4F-437C74006E5B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\UE4PG1.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{232832FE-C2CB-4820-8550-AA68C527FCEB}</UniqueIdentifier>
+			<UniqueIdentifier>{23FA5A54-33D4-4FBA-8EED-FDA94C68AF9F}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,8 +25,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\UE4PG1">
-			<UniqueIdentifier>{15A61590-81AD-4329-BE8D-E132C62E350A}</UniqueIdentifier>
+			<UniqueIdentifier>{A7B73B49-7879-4E01-B177-99F07A73939C}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\UE4PG1\FloatingActor.cpp">
+			<Filter>Source\UE4PG1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UE4PG1\FloatingActor.h">
+			<Filter>Source\UE4PG1</Filter>
+		</ClInclude >
 		<None Include="..\..\Source\UE4PG1\UE4PG1.Build.cs">
 			<Filter>Source\UE4PG1</Filter>
 		</None >
